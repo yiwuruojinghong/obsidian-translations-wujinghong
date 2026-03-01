@@ -1,2 +1,3 @@
 # obsidian-translations-wujinghong
-My Obsidian plugin translations (created by obsidian-i18n)
+
+这是一个用于翻译 Obsidian 插件的共建仓库。
